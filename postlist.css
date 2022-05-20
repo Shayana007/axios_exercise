@@ -1,0 +1,21 @@
+.grid {
+  display: grid;
+  grid-template-columns: auto;
+  background: linear-gradient(rgb(94, 94, 177),rgb(228, 153, 153),rgb(107, 182, 107));
+  padding: 15px;
+  row-gap: 25px;
+  column-gap: 20px;
+  margin: 30px;
+}
+
+.gridText {
+  background-color: rgb(27, 177, 52);
+  border: 10px solid rgb(199, 35, 150);
+  text-shadow: -1px -1px 0px greenyellow;
+  text-decoration: underline dashed yellow;
+  font-weight: bold;
+  color:darkred;
+  padding: 8px;
+  font-size: 15px;
+  text-align: center;
+}
